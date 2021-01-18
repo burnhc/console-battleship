@@ -1,4 +1,4 @@
-# Console Battleship
+# Terminal Battleship
 Battleship game that can be played in the terminal.
 
 Battleship V1 was built when I was first exposed to programming. I decided to
