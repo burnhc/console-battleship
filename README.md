@@ -1,5 +1,6 @@
 # Terminal Battleship
 Battleship game that can be played in the terminal.
+_Part of the ![Terminal Arcade](https://github.com/kalettuce/terminal-arcade) project._
 
 I first created Battleship V1 upon my first exposure to computer science. I decided to
 revamp it (Battleship V2) after a few years to compare how my programming style has developed.
