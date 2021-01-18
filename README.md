@@ -2,7 +2,7 @@
 Battleship game that can be played in the terminal.
 
 Battleship V1 was built when I was first exposed to programming. I decided to
-recreate it in Battleship V2 after 4 years to compare how my programming style has developed.
+recreate it (Battleship V2) after a few years to compare how my programming style has developed.
 
 Note: The game prompt may appear buggy on Windows CML.
 
