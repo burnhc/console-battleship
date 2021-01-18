@@ -6,7 +6,7 @@ recreate it in Battleship V2 after 4 years to compare how my programming style h
 
 Note: The game prompts appear buggy on Windows CMD.
 
-To run Battleship V2, navigate to the directory and run the commands:
+To run Battleship V2, first navigate to the directory and compile `Battleship.java`, `Ocean.java`, `Move.java`, and `ShipGenerator.java` as follows:
 ```
 cd src
 javac Battleship.java Ocean.java Move.java ShipGenerator.java
